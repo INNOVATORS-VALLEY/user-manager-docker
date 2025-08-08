@@ -68,7 +68,7 @@ class UserController extends Controller
 
             $user->syncRoles([$request->role_id]);
 
-            $filepath = 'photos/profile.jpg';
+            $filepath = 'photos/pic.jpg';
 
             Media::create([
                 'file' => $filepath,
