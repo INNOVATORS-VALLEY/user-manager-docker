@@ -3,7 +3,6 @@
 namespace Database\Seeders;
 
 use App\Models\Role;
-use App\Models\Permission;
 use Illuminate\Support\Str;
 use Illuminate\Database\Seeder;
 use Spatie\Permission\PermissionRegistrar;
