@@ -20,7 +20,7 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
-        'https://user-manager-front.vercel.app',
+        'https://user-manager-front-beta.vercel.app',
         'http://localhost:3000',
         'http://localhost:8080',
         'http://127.0.0.1:3000',
